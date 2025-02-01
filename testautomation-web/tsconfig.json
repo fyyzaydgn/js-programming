@@ -1,7 +1,0 @@
-{
-    "compilerOptions": {
-      "paths": {
-        "@badeball/cypress-cucumber-preprocessor/*": ["./src/node_modules/@badeball/cypress-cucumber-preprocessor/dist/subpath-entrypoints/*"]
-      }
-    }
-  }
